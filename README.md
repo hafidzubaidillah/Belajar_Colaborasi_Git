@@ -1,2 +1,1 @@
-hafidz ubaidillah - pemalang
-kolab
+hafidz ubaidillah

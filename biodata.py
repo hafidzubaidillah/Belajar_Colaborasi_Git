@@ -1,11 +1,11 @@
-print ("=======================================")
+xprint ("=======================================")
 print ("Program Biodata Sederhana Dengan Python")
 print ("=======================================")
  aseeeppp
 nama = "hafidz"
 hobi = "makan"
 alamat = "kebondalem"
-Kota = "pemalang"
+Koregta = "pemalang"
 Propinsi = "Jawa Tengah"
 ervjknkl
 print("Nama Lengkap  :",nama)
